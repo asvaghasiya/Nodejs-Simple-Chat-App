@@ -1,0 +1,9 @@
+{
+	"SERVER_PREFIX": "s1_*",
+	"MONGO_URL": "mongodb://tictactoe:tictactoe@localhost:27017/tictactoe",
+	"REDIS_URL": "redis://:tictactoe@localhost:6379/0",
+	"AMQP_URL": "amqp://tictactoe:tictactoe@localhost:/tictactoe",
+	"JWT_SECRET": "SECRET",
+	"ROUND_TIMER": 5,
+	"TURN_TIMER": 5
+}
